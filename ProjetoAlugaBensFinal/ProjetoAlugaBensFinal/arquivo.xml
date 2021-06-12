@@ -1,0 +1,15 @@
+<Classes.CentralDeInformacoes>
+  <listaBem/>
+  <listaLocacao/>
+  <locadoresCadastrados/>
+  <locatario>
+    <dataDeNasc>1990-12-12 03:00:00.0 UTC</dataDeNasc>
+    <email>1</email>
+    <senha>1</senha>
+    <nome>p</nome>
+    <cpf>122</cpf>
+    <profissao>ss</profissao>
+    <confSenha>1</confSenha>
+  </locatario>
+  <locatariosCadastrados/>
+</Classes.CentralDeInformacoes>
