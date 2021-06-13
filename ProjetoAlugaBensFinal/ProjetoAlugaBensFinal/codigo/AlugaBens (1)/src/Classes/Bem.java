@@ -110,5 +110,4 @@ public class Bem {
 	public void setDataDoAlugel(Date dataDeDevolucao) {
 		this.dataDeDevolucao = dataDeDevolucao;
 	}
-
 }
