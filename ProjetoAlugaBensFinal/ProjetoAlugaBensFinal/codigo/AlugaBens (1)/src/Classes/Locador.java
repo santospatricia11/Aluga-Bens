@@ -9,7 +9,6 @@ public class Locador extends Usuario {
 	public Locador() {
 
 	}
-
 	public ArrayList<Bem> getBens() {
 		return bens;
 	}

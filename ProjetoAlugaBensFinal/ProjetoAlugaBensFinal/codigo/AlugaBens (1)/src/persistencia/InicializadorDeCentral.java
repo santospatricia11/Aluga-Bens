@@ -13,6 +13,7 @@ public class InicializadorDeCentral {
 		persistencia.salvaCentral(centralNova);
 
 	}
+	//inicializar
 
 	public static void main(String[] args) {
 		InicializadorDeCentral i = new InicializadorDeCentral();

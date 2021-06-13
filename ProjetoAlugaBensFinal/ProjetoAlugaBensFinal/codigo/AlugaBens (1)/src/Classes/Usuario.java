@@ -1,7 +1,7 @@
 package Classes;
 
 import java.util.Date;
-
+//
 public class Usuario {
 	private Date dataDeNasc;
 

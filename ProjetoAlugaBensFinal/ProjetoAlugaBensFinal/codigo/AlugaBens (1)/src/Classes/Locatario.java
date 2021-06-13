@@ -1,7 +1,7 @@
 package Classes;
 
 public class Locatario extends Usuario {
-	/// arraylist locatario fazer
+	// arraylist locatario fazer
 
 	private String cidade;
 	private String complemento;

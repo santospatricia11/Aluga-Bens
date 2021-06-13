@@ -9,6 +9,7 @@ import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfWriter;
 
 public class GeradorDeRelatorios {
+	// gerador de relatorios
 	public void gerarRelatorioAlugueis(CentralDeInformacoes c, String nome) {
 		try {
 			Document documento = new Document();

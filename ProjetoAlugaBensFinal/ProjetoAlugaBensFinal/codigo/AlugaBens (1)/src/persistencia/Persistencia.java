@@ -12,7 +12,7 @@ import com.thoughtworks.xstream.io.xml.DomDriver;
 import Classes.CentralDeInformacoes;
 
 public class Persistencia {
-	
+	//percistencia
 		private XStream xstream = new XStream(new DomDriver("UTF-8"));
 		private File arquivo = new File("arquivo.xml");
 	

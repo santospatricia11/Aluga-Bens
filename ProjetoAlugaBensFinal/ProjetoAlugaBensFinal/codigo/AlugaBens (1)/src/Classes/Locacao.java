@@ -1,5 +1,4 @@
 package Classes;
-
 public class Locacao {
 	private int prazo;
 	private int quant;
