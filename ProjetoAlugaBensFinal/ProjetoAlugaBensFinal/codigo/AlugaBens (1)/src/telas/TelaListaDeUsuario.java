@@ -13,7 +13,7 @@ import persistencia.Persistencia;
 public class TelaListaDeUsuario extends TelaPadrao {
 	private DefaultTableModel model;
 	private JTable tabela;
-
+//lista usuarios
 	public TelaListaDeUsuario() {
 		setTitle("Listas de Usuario ");
 		setLocationRelativeTo(null);

@@ -39,7 +39,7 @@ public class TebelaDeBens extends JTable {
 		janela.add(contene);
 
 	}
-
+	
 	public void adicionarLinha(Bem bem) {
 		modelo.addRow(new Object[] { bem.getCodigo(), bem.getNome(), bem.getDescricao(), bem.getQuant(), bem.getValor(),
 				bem.getCondicao(), bem.getDataDeDevolucao(), bem.getLocacao()

@@ -15,7 +15,7 @@ import persistencia.Persistencia;
 
 public class TelaListarBensAlugados extends TelaPadrao {
 	Persistencia p = new Persistencia();
-
+//lista de bens
 	private DefaultTableModel modelo = new DefaultTableModel();
 	ArrayList<Bem> bens = new ArrayList<Bem>();
 	CentralDeInformacoes central = p.recuperarCentral();

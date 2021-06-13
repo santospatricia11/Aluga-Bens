@@ -12,7 +12,7 @@ import com.jtattoo.plaf.bernstein.BernsteinLookAndFeel;
 
 public class TelaPadrao extends JFrame {
 	public TelaPadrao() {
-		//adiciona LookFeel (Tema)
+		//adiciona LookFeel 
 		try {
 			UIManager.setLookAndFeel(new BernsteinLookAndFeel());
 		} catch (UnsupportedLookAndFeelException e) {

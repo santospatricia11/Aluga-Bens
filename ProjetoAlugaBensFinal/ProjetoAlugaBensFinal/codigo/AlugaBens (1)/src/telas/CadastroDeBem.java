@@ -15,6 +15,7 @@ import Classes.CentralDeInformacoes;
 import persistencia.Persistencia;
 
 public class CadastroDeBem extends TelaPadrao {
+	//cadastro bens
 	private JButton cadastrar;
 	private JButton voltar;
 	private JTextField nometf;

@@ -17,7 +17,7 @@ import excecoes.QuantidadeInvalida;
 import persistencia.Persistencia;
 
 public class TelaAluguel extends TelaPadrao {
-
+//aluguel
 	private JTextField codigoJt;
 	private JTextField cpfJt;
 	private JTextField quantidadeJt;

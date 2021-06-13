@@ -76,5 +76,5 @@ public class TelaInicial extends TelaPadrao {
 	public static void main(String[] args) {
 		new TelaInicial();
 	}
-
+//Tela inicial
 }

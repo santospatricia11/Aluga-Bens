@@ -115,7 +115,7 @@ public class TelaHome extends TelaPadrao {
 	}
 
 	public static void main(String[] args) {
-		new TelaHome("");
+		new TelaHome("Home");
 
 	}
 }

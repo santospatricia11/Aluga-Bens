@@ -20,6 +20,7 @@ import Classes.Locatario;
 import persistencia.Persistencia;
 
 public class Cadastro extends TelaPadrao implements ActionListener {
+	//cadastro
 	private JButton salvar;
 	private JButton voltar;
 
