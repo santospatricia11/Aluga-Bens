@@ -7,11 +7,7 @@ import excecoes.QuantidadeInvalida;
 import persistencia.Persistencia;
 
 public class CentralDeInformacoes {
-	// public static final CentralDeInformacoes INSTANCE = new
-	// CentralDeInformacoes();
-	// private CentralDeInformacoes() {
-
-	// }
+	
 
 	private ArrayList<Bem> listaBem = new ArrayList<Bem>();
 	private ArrayList<Locacao> listaLocacao = new ArrayList<Locacao>();
